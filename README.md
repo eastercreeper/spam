@@ -2,7 +2,7 @@
 
   ## How to use
   
-  ###Use this script in google scripts you need to create a new script and then copy and paste it in make sure you add a direct image link and set the email
+  ### Use this script in google scripts you need to create a new script and then copy and paste it in make sure you add a direct image link and set the email
 
 
 
